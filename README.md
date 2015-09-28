@@ -12,5 +12,6 @@ player(the white ball) is initially set in the center of 12 yellow squares
 
 
 control your camera to pick as many squares as possible!
+
 ![Game Screenshot B](https://googledrive.com/host/0BwRASkt_ViDabUZiTzVlcWdUSXc/Cardboard-Roller-Game-Image-1.png)
 
